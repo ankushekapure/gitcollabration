@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1 style={{ backgroundColor: "green", padding: "50px", width: "200px", height: "200px", borderRadius: "50%", margin: "15px" }}>
+      <h1 style={{ backgroundColor: "green", padding: "50px", width: "200px", height: "200px", borderRadius: "50%", margin: "15px", display: "flex", justifyContent: "center", alignItems: "center" }}>
         This Is First Time Change
       </h1>
 
